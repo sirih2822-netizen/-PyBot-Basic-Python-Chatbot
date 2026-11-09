@@ -1,0 +1,6 @@
+{
+  "name": "PyBot - Basic Python Chatbot",
+  "description": "CodeAlpha Task 4: A responsive rule-based Python and Flask chatbot implementing conditional logic, loops, functions, and structured input/output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
